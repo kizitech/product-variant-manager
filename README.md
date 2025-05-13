@@ -71,7 +71,7 @@ A responsive product and variant manager inspired by Shopify's clean interface. 
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://product-variant-manager-demo.vercel.app)
+[View Live Demo](https://product-variant-manager-flax.vercel.app/)
 
 ## 📥 Installation
 
@@ -190,4 +190,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-Built with ❤️ by Kizito Ohani 
+Built with 🤍 by Kizito Ohani 
