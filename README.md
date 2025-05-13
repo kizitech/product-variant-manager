@@ -1,12 +1,14 @@
 # Product Variant Manager
 
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB.svg?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4.17-06B6D4?logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-3178C6.svg?logo=typescript&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-5.17.19-FF4154.svg?logo=react-query&logoColor=white)
 
 A responsive product and variant manager inspired by Shopify's clean interface. This application allows users to manage products and their variants with a modern, intuitive UI.
 
-![Product Variant Manager Demo](screenshots/product-list.png)
+![Product Variant Manager Demo](/screenshots/product-list.png)
 
 ## 📋 Table of Contents
 
@@ -146,25 +148,25 @@ Follow these steps to set up the project locally:
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop View](screenshots/desktop-view.png)
+![Desktop View](/screenshots/desktop-view.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile-view.jpg)
+![Mobile View](/screenshots/mobile-view.jpg)
 
 ### Product List
-![Product List](screenshots/product-list.png)
+![Product List](/screenshots/product-list.png)
 
 ### Add Product Dialog
-![Add Product](screenshots/add-product.png)
+![Add Product](/screenshots/add-product.png)
 
 ### Add Variant Dialog
-![Add Product](screenshots/add-variant.png)
+![Add Product](/screenshots/add-variant.png)
 
 ### Product with Variants
-![Product with Variants](screenshots/product-variants.png)
+![Product with Variants](/screenshots/product-variants.png)
 
 ### Edit Variant Dialog
-![Edit Variant](screenshots/edit-variant.png)
+![Edit Variant](/screenshots/edit-variant.png)
 
 
 ## 🔮 Future Enhancements
