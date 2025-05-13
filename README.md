@@ -8,7 +8,7 @@
 
 A responsive product and variant manager inspired by Shopify's clean interface. This application allows users to manage products and their variants with a modern, intuitive UI.
 
-![Product Variant Manager Demo](/screenshots/product-list.png)
+![Product Variant Manager Demo](/public/screenshots/product-list.png)
 
 ## 📋 Table of Contents
 
@@ -148,25 +148,25 @@ Follow these steps to set up the project locally:
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop View](/screenshots/desktop-view.png)
+![Desktop View](/public/screenshots/desktop-view.png)
 
 ### Mobile View
-![Mobile View](/screenshots/mobile-view.jpg)
+![Mobile View](/public/screenshots/mobile-view.jpg)
 
 ### Product List
-![Product List](/screenshots/product-list.png)
+![Product List](/public/screenshots/product-list.png)
 
 ### Add Product Dialog
-![Add Product](/screenshots/add-product.png)
+![Add Product](/public/screenshots/add-product.png)
 
 ### Add Variant Dialog
-![Add Product](/screenshots/add-variant.png)
+![Add Product](/public/screenshots/add-variant.png)
 
 ### Product with Variants
-![Product with Variants](/screenshots/product-variants.png)
+![Product with Variants](/public/screenshots/product-variants.png)
 
 ### Edit Variant Dialog
-![Edit Variant](/screenshots/edit-variant.png)
+![Edit Variant](/public/screenshots/edit-variant.png)
 
 
 ## 🔮 Future Enhancements
